@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Output
+output/
+
+# Dataset
+data/candidates.jsonl
+
+# Optional large model/cache folders
+models/
+.cache/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
