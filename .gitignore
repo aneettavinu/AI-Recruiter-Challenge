@@ -6,8 +6,12 @@ venv/
 __pycache__/
 *.pyc
 
-# Output
-output/
+# Ignore generated output
+output/*
+
+# Keep the output folder and final submission
+!output/
+!output/submission.csv
 
 # Dataset
 data/candidates.jsonl

@@ -1,0 +1,501 @@
+candidate_id,rank,score,reasoning
+CAND_0000422,1,1.0,Partial semantic match with the job description; Matches several required technical skills; 6.3 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000361,2,0.931,Partial semantic match with the job description; 10.2 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000103,3,0.873,Partial semantic match with the job description; 11.7 years of strong industry experience; Currently open to new opportunities
+CAND_0000390,4,0.871,Partial semantic match with the job description; Matches several required technical skills; 6.6 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000322,5,0.848,Partial semantic match with the job description; 12.0 years of strong industry experience; Well-maintained professional profile
+CAND_0000410,6,0.841,Partial semantic match with the job description; 10.1 years of strong industry experience; Currently open to new opportunities
+CAND_0000114,7,0.835,Partial semantic match with the job description; 14.3 years of strong industry experience; Currently open to new opportunities
+CAND_0000002,8,0.829,Partial semantic match with the job description; 12.5 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000137,9,0.826,Partial semantic match with the job description; 10.9 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000222,10,0.816,Partial semantic match with the job description; 11.1 years of strong industry experience; Currently open to new opportunities
+CAND_0000110,11,0.812,Partial semantic match with the job description; 9.8 years of strong industry experience; Currently open to new opportunities; Moderately active GitHub profile
+CAND_0000499,12,0.797,Partial semantic match with the job description; 11.0 years of strong industry experience; Currently open to new opportunities
+CAND_0000041,13,0.791,Partial semantic match with the job description; 13.7 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000144,14,0.787,Partial semantic match with the job description; 14.7 years of strong industry experience; Currently open to new opportunities
+CAND_0000330,15,0.785,Partial semantic match with the job description; 12.0 years of strong industry experience
+CAND_0000045,16,0.784,Partial semantic match with the job description; 12.2 years of strong industry experience; Currently open to new opportunities
+CAND_0000062,17,0.775,Partial semantic match with the job description; Matches several required technical skills; 4.3 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000001,18,0.775,Partial semantic match with the job description; Matches several required technical skills; 6.9 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000440,19,0.771,Partial semantic match with the job description; Matches several required technical skills; 7.5 years of relevant experience
+CAND_0000385,20,0.764,Partial semantic match with the job description; 10.9 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000414,21,0.762,Partial semantic match with the job description; 13.7 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000033,22,0.761,Partial semantic match with the job description; 8.6 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000036,23,0.761,Partial semantic match with the job description; 11.3 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000093,24,0.756,Partial semantic match with the job description; 8.2 years of strong industry experience; Currently open to new opportunities
+CAND_0000048,25,0.754,Partial semantic match with the job description; 9.7 years of strong industry experience; Currently open to new opportunities
+CAND_0000247,26,0.754,Partial semantic match with the job description; 10.2 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000005,27,0.749,Partial semantic match with the job description; 11.0 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000492,28,0.745,Partial semantic match with the job description; 14.2 years of strong industry experience; Currently open to new opportunities
+CAND_0000134,29,0.743,Partial semantic match with the job description; 8.6 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000428,30,0.741,Partial semantic match with the job description; 14.1 years of strong industry experience; Currently open to new opportunities
+CAND_0000069,31,0.738,Partial semantic match with the job description; 13.0 years of strong industry experience; Currently open to new opportunities
+CAND_0000186,32,0.733,Partial semantic match with the job description; 12.4 years of strong industry experience; Currently open to new opportunities
+CAND_0000272,33,0.732,Partial semantic match with the job description; 14.8 years of strong industry experience; Currently open to new opportunities
+CAND_0000340,34,0.725,Partial semantic match with the job description; 11.7 years of strong industry experience; Well-maintained professional profile
+CAND_0000382,35,0.723,Partial semantic match with the job description; 8.2 years of strong industry experience; Currently open to new opportunities
+CAND_0000133,36,0.723,Partial semantic match with the job description; 11.7 years of strong industry experience; Well-maintained professional profile
+CAND_0000065,37,0.721,Partial semantic match with the job description; 9.7 years of strong industry experience; Currently open to new opportunities
+CAND_0000263,38,0.719,Partial semantic match with the job description; Matches several required technical skills; 5.4 years of relevant experience; Moderately active GitHub profile
+CAND_0000105,39,0.718,Partial semantic match with the job description; 12.0 years of strong industry experience; Currently open to new opportunities
+CAND_0000321,40,0.715,Partial semantic match with the job description; 12.1 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000135,41,0.713,Partial semantic match with the job description; 8.2 years of strong industry experience; Currently open to new opportunities
+CAND_0000127,42,0.712,Partial semantic match with the job description; Matches several required technical skills; 6.7 years of relevant experience
+CAND_0000117,43,0.707,Partial semantic match with the job description; Matches several required technical skills; 7.9 years of relevant experience; Moderately active GitHub profile
+CAND_0000470,44,0.705,Partial semantic match with the job description; 14.2 years of strong industry experience; Well-maintained professional profile
+CAND_0000386,45,0.701,Partial semantic match with the job description; 9.6 years of strong industry experience; Currently open to new opportunities
+CAND_0000424,46,0.698,Partial semantic match with the job description; 12.7 years of strong industry experience; Currently open to new opportunities
+CAND_0000169,47,0.698,Partial semantic match with the job description; 14.9 years of strong industry experience; Currently open to new opportunities
+CAND_0000136,48,0.695,Partial semantic match with the job description; Matches several required technical skills; 6.5 years of relevant experience; Well-maintained professional profile
+CAND_0000100,49,0.691,Partial semantic match with the job description; 13.5 years of strong industry experience; Currently open to new opportunities
+CAND_0000021,50,0.688,Partial semantic match with the job description; 14.5 years of strong industry experience
+CAND_0000046,51,0.687,Partial semantic match with the job description; 7.8 years of relevant experience; Well-maintained professional profile
+CAND_0000165,52,0.686,Partial semantic match with the job description; 6.8 years of relevant experience; Currently open to new opportunities; Moderately active GitHub profile
+CAND_0000032,53,0.685,Partial semantic match with the job description; Matches several required technical skills; 8.1 years of strong industry experience
+CAND_0000085,54,0.685,Partial semantic match with the job description; 12.9 years of strong industry experience; Well-maintained professional profile
+CAND_0000314,55,0.685,Partial semantic match with the job description; 11.7 years of strong industry experience; Currently open to new opportunities
+CAND_0000398,56,0.679,Partial semantic match with the job description; 10.0 years of strong industry experience; Currently open to new opportunities
+CAND_0000302,57,0.678,Partial semantic match with the job description; 7.4 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000154,58,0.675,Partial semantic match with the job description; 9.9 years of strong industry experience; Currently open to new opportunities
+CAND_0000418,59,0.673,Partial semantic match with the job description; 9.0 years of strong industry experience; Well-maintained professional profile
+CAND_0000349,60,0.672,Partial semantic match with the job description; 11.0 years of strong industry experience; Currently open to new opportunities
+CAND_0000357,61,0.669,Partial semantic match with the job description; 7.7 years of relevant experience; Currently open to new opportunities
+CAND_0000009,62,0.668,Partial semantic match with the job description; 11.0 years of strong industry experience
+CAND_0000084,63,0.666,Partial semantic match with the job description; 10.6 years of strong industry experience; Currently open to new opportunities
+CAND_0000178,64,0.666,Partial semantic match with the job description; 8.3 years of strong industry experience; Currently open to new opportunities
+CAND_0000201,65,0.665,Partial semantic match with the job description; 14.1 years of strong industry experience
+CAND_0000293,66,0.665,Partial semantic match with the job description; 10.3 years of strong industry experience; Currently open to new opportunities
+CAND_0000220,67,0.662,Partial semantic match with the job description; 10.9 years of strong industry experience
+CAND_0000212,68,0.66,Partial semantic match with the job description; 13.0 years of strong industry experience; Currently open to new opportunities
+CAND_0000458,69,0.658,Partial semantic match with the job description; 8.0 years of strong industry experience; Currently open to new opportunities
+CAND_0000337,70,0.653,Partial semantic match with the job description; 10.6 years of strong industry experience
+CAND_0000236,71,0.651,Partial semantic match with the job description; 10.3 years of strong industry experience
+CAND_0000240,72,0.651,Partial semantic match with the job description; 13.3 years of strong industry experience; Currently open to new opportunities
+CAND_0000360,73,0.649,Partial semantic match with the job description; 8.6 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000122,74,0.648,Partial semantic match with the job description; 9.7 years of strong industry experience; Well-maintained professional profile
+CAND_0000073,75,0.647,Partial semantic match with the job description; 12.1 years of strong industry experience
+CAND_0000044,76,0.644,Partial semantic match with the job description; Matches several required technical skills; 5.7 years of relevant experience
+CAND_0000394,77,0.644,Partial semantic match with the job description; 6.9 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000417,78,0.64,Partial semantic match with the job description; 7.8 years of relevant experience; Currently open to new opportunities
+CAND_0000242,79,0.64,Partial semantic match with the job description; 9.1 years of strong industry experience; Currently open to new opportunities
+CAND_0000413,80,0.639,Partial semantic match with the job description; 14.0 years of strong industry experience
+CAND_0000060,81,0.637,Partial semantic match with the job description; 8.0 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000341,82,0.635,Partial semantic match with the job description; 12.4 years of strong industry experience; Well-maintained professional profile
+CAND_0000323,83,0.634,Partial semantic match with the job description; 14.4 years of strong industry experience; Currently open to new opportunities
+CAND_0000124,84,0.634,Partial semantic match with the job description; 7.6 years of relevant experience; Currently open to new opportunities
+CAND_0000235,85,0.631,Partial semantic match with the job description; 10.4 years of strong industry experience
+CAND_0000402,86,0.631,Partial semantic match with the job description; 12.6 years of strong industry experience
+CAND_0000327,87,0.631,Partial semantic match with the job description; 9.6 years of strong industry experience; Currently open to new opportunities
+CAND_0000233,88,0.629,Partial semantic match with the job description; 12.5 years of strong industry experience; Currently open to new opportunities
+CAND_0000249,89,0.628,Partial semantic match with the job description; 9.1 years of strong industry experience; Well-maintained professional profile
+CAND_0000312,90,0.628,Partial semantic match with the job description; 11.5 years of strong industry experience; Well-maintained professional profile
+CAND_0000140,91,0.627,Partial semantic match with the job description; 8.1 years of strong industry experience; Currently open to new opportunities
+CAND_0000162,92,0.626,Partial semantic match with the job description; 13.8 years of strong industry experience; Well-maintained professional profile
+CAND_0000466,93,0.626,Partial semantic match with the job description; 8.8 years of strong industry experience; Currently open to new opportunities
+CAND_0000255,94,0.626,Partial semantic match with the job description; 8.0 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000445,95,0.625,Partial semantic match with the job description; 9.5 years of strong industry experience
+CAND_0000395,96,0.624,Partial semantic match with the job description; Matches several required technical skills; 3.8 years of professional experience
+CAND_0000498,97,0.624,Partial semantic match with the job description; 10.7 years of strong industry experience
+CAND_0000010,98,0.624,Partial semantic match with the job description; Matches several required technical skills; 4.6 years of professional experience; Well-maintained professional profile
+CAND_0000376,99,0.623,Partial semantic match with the job description; 14.2 years of strong industry experience; Currently open to new opportunities
+CAND_0000488,100,0.62,Partial semantic match with the job description; 9.2 years of strong industry experience; Well-maintained professional profile
+CAND_0000049,101,0.62,Partial semantic match with the job description; 11.8 years of strong industry experience
+CAND_0000025,102,0.618,Partial semantic match with the job description; 7.3 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000371,103,0.617,Partial semantic match with the job description; 15.0 years of strong industry experience; Currently open to new opportunities
+CAND_0000295,104,0.616,Partial semantic match with the job description; 7.8 years of relevant experience; Currently open to new opportunities
+CAND_0000318,105,0.616,Partial semantic match with the job description; 12.1 years of strong industry experience
+CAND_0000273,106,0.616,Partial semantic match with the job description; 5.8 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000038,107,0.615,Partial semantic match with the job description; 6.7 years of relevant experience; Currently open to new opportunities
+CAND_0000448,108,0.615,Partial semantic match with the job description; 13.9 years of strong industry experience; Currently open to new opportunities
+CAND_0000270,109,0.602,Partial semantic match with the job description; 14.4 years of strong industry experience; Well-maintained professional profile
+CAND_0000294,110,0.602,Partial semantic match with the job description; 8.6 years of strong industry experience; Currently open to new opportunities
+CAND_0000397,111,0.601,Partial semantic match with the job description; 9.9 years of strong industry experience; Well-maintained professional profile
+CAND_0000431,112,0.598,Partial semantic match with the job description; 11.6 years of strong industry experience
+CAND_0000475,113,0.597,Partial semantic match with the job description; 6.8 years of relevant experience; Well-maintained professional profile
+CAND_0000444,114,0.597,Partial semantic match with the job description; 14.3 years of strong industry experience; Currently open to new opportunities
+CAND_0000355,115,0.593,Partial semantic match with the job description; 12.0 years of strong industry experience
+CAND_0000415,116,0.589,Partial semantic match with the job description; 9.7 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000333,117,0.589,Partial semantic match with the job description; 7.4 years of relevant experience
+CAND_0000437,118,0.585,Partial semantic match with the job description; 11.9 years of strong industry experience; Well-maintained professional profile
+CAND_0000143,119,0.585,Partial semantic match with the job description; 7.7 years of relevant experience; Currently open to new opportunities
+CAND_0000496,120,0.581,Partial semantic match with the job description; 9.8 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000078,121,0.58,Partial semantic match with the job description; 10.3 years of strong industry experience
+CAND_0000430,122,0.579,Partial semantic match with the job description; 9.3 years of strong industry experience; Currently open to new opportunities
+CAND_0000037,123,0.579,Partial semantic match with the job description; 14.3 years of strong industry experience
+CAND_0000180,124,0.578,Partial semantic match with the job description; 8.5 years of strong industry experience
+CAND_0000486,125,0.577,Partial semantic match with the job description; 7.8 years of relevant experience
+CAND_0000425,126,0.577,Partial semantic match with the job description; 9.5 years of strong industry experience; Well-maintained professional profile
+CAND_0000316,127,0.576,Partial semantic match with the job description; 12.8 years of strong industry experience; Well-maintained professional profile
+CAND_0000433,128,0.576,Partial semantic match with the job description; 10.4 years of strong industry experience
+CAND_0000160,129,0.576,Partial semantic match with the job description; 7.0 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000080,130,0.575,Partial semantic match with the job description; 8.3 years of strong industry experience; Currently open to new opportunities
+CAND_0000167,131,0.574,Partial semantic match with the job description; 9.1 years of strong industry experience
+CAND_0000081,132,0.572,Partial semantic match with the job description; 10.1 years of strong industry experience
+CAND_0000399,133,0.571,Partial semantic match with the job description; 12.9 years of strong industry experience
+CAND_0000454,134,0.57,Partial semantic match with the job description; Matches several required technical skills; 5.8 years of relevant experience; Well-maintained professional profile
+CAND_0000231,135,0.566,Partial semantic match with the job description; 6.9 years of relevant experience; Currently open to new opportunities
+CAND_0000128,136,0.563,Partial semantic match with the job description; 8.5 years of strong industry experience; Currently open to new opportunities
+CAND_0000209,137,0.559,Partial semantic match with the job description; 10.3 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000392,138,0.555,Partial semantic match with the job description; 14.7 years of strong industry experience; Currently open to new opportunities
+CAND_0000198,139,0.551,Partial semantic match with the job description; 6.3 years of relevant experience; Currently open to new opportunities
+CAND_0000063,140,0.548,Partial semantic match with the job description; 5.4 years of relevant experience; Currently open to new opportunities; Moderately active GitHub profile
+CAND_0000050,141,0.547,Partial semantic match with the job description; 13.5 years of strong industry experience
+CAND_0000014,142,0.547,Partial semantic match with the job description; 8.4 years of strong industry experience
+CAND_0000061,143,0.546,Partial semantic match with the job description; 7.7 years of relevant experience
+CAND_0000309,144,0.545,Partial semantic match with the job description; 9.4 years of strong industry experience
+CAND_0000116,145,0.544,Partial semantic match with the job description; 7.3 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000479,146,0.543,Partial semantic match with the job description; 13.1 years of strong industry experience
+CAND_0000461,147,0.543,Partial semantic match with the job description; 6.7 years of relevant experience; Currently open to new opportunities
+CAND_0000339,148,0.542,Partial semantic match with the job description; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000387,149,0.541,Partial semantic match with the job description; 10.4 years of strong industry experience
+CAND_0000149,150,0.54,Partial semantic match with the job description; 14.9 years of strong industry experience
+CAND_0000251,151,0.539,Partial semantic match with the job description; 11.4 years of strong industry experience; Well-maintained professional profile
+CAND_0000328,152,0.538,Partial semantic match with the job description; 11.7 years of strong industry experience
+CAND_0000024,153,0.535,Partial semantic match with the job description; 7.5 years of relevant experience
+CAND_0000460,154,0.534,Partial semantic match with the job description; 12.2 years of strong industry experience
+CAND_0000083,155,0.534,Partial semantic match with the job description; 6.7 years of relevant experience
+CAND_0000299,156,0.533,Partial semantic match with the job description; 10.1 years of strong industry experience
+CAND_0000026,157,0.533,Partial semantic match with the job description; 6.8 years of relevant experience; Well-maintained professional profile
+CAND_0000223,158,0.533,Partial semantic match with the job description; 6.1 years of relevant experience; Currently open to new opportunities
+CAND_0000443,159,0.532,Partial semantic match with the job description; 10.8 years of strong industry experience
+CAND_0000370,160,0.531,Partial semantic match with the job description; 5.9 years of relevant experience; Currently open to new opportunities
+CAND_0000227,161,0.53,Partial semantic match with the job description; 7.6 years of relevant experience
+CAND_0000237,162,0.53,Partial semantic match with the job description; 14.9 years of strong industry experience
+CAND_0000388,163,0.528,Partial semantic match with the job description; 6.0 years of relevant experience
+CAND_0000017,164,0.524,Partial semantic match with the job description; 12.3 years of strong industry experience
+CAND_0000455,165,0.522,Partial semantic match with the job description; 12.5 years of strong industry experience; Well-maintained professional profile
+CAND_0000292,166,0.522,Partial semantic match with the job description; Matches several required technical skills; 2.0 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000338,167,0.522,Partial semantic match with the job description; 7.9 years of relevant experience
+CAND_0000447,168,0.522,Partial semantic match with the job description; 7.2 years of relevant experience
+CAND_0000082,169,0.522,Partial semantic match with the job description; 7.4 years of relevant experience; Currently open to new opportunities
+CAND_0000456,170,0.521,Partial semantic match with the job description; 11.2 years of strong industry experience; Well-maintained professional profile
+CAND_0000473,171,0.521,Partial semantic match with the job description; 6.5 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000446,172,0.52,Partial semantic match with the job description; 9.4 years of strong industry experience; Currently open to new opportunities
+CAND_0000072,173,0.519,Partial semantic match with the job description; 7.0 years of relevant experience
+CAND_0000265,174,0.517,Partial semantic match with the job description; 3.8 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000261,175,0.517,Partial semantic match with the job description; 13.5 years of strong industry experience; Well-maintained professional profile
+CAND_0000384,176,0.516,Partial semantic match with the job description; 6.8 years of relevant experience; Currently open to new opportunities
+CAND_0000464,177,0.512,Partial semantic match with the job description; 11.7 years of strong industry experience
+CAND_0000268,178,0.512,Partial semantic match with the job description; 11.3 years of strong industry experience
+CAND_0000289,179,0.511,Partial semantic match with the job description; 13.3 years of strong industry experience
+CAND_0000131,180,0.511,Partial semantic match with the job description; 4.8 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000459,181,0.511,Partial semantic match with the job description; 7.9 years of relevant experience; Currently open to new opportunities
+CAND_0000076,182,0.507,Partial semantic match with the job description; 12.0 years of strong industry experience; Well-maintained professional profile
+CAND_0000215,183,0.504,Partial semantic match with the job description; 7.9 years of relevant experience; Well-maintained professional profile
+CAND_0000163,184,0.503,Partial semantic match with the job description; 12.3 years of strong industry experience
+CAND_0000352,185,0.502,Partial semantic match with the job description; 4.7 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000468,186,0.501,Partial semantic match with the job description; 5.0 years of relevant experience; Currently open to new opportunities
+CAND_0000439,187,0.5,Partial semantic match with the job description; 13.5 years of strong industry experience
+CAND_0000258,188,0.5,Partial semantic match with the job description; 11.3 years of strong industry experience; Well-maintained professional profile
+CAND_0000043,189,0.499,Partial semantic match with the job description; 8.3 years of strong industry experience
+CAND_0000020,190,0.499,Partial semantic match with the job description; 6.3 years of relevant experience; Well-maintained professional profile
+CAND_0000188,191,0.498,Partial semantic match with the job description; 12.1 years of strong industry experience
+CAND_0000159,192,0.498,Partial semantic match with the job description; 4.4 years of professional experience; Currently open to new opportunities
+CAND_0000491,193,0.498,Partial semantic match with the job description; 14.1 years of strong industry experience
+CAND_0000362,194,0.497,Partial semantic match with the job description; 5.4 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000123,195,0.495,Partial semantic match with the job description; 10.0 years of strong industry experience
+CAND_0000071,196,0.494,Partial semantic match with the job description; Matches several required technical skills; Moderately active GitHub profile
+CAND_0000320,197,0.493,Partial semantic match with the job description; 8.0 years of strong industry experience
+CAND_0000129,198,0.493,Partial semantic match with the job description; 8.0 years of strong industry experience
+CAND_0000055,199,0.492,Partial semantic match with the job description; 7.3 years of relevant experience; Well-maintained professional profile
+CAND_0000034,200,0.492,Partial semantic match with the job description; 14.5 years of strong industry experience
+CAND_0000107,201,0.491,Partial semantic match with the job description; 11.5 years of strong industry experience
+CAND_0000495,202,0.491,Partial semantic match with the job description; Currently open to new opportunities
+CAND_0000275,203,0.489,Partial semantic match with the job description; 7.8 years of relevant experience
+CAND_0000358,204,0.488,Partial semantic match with the job description; 2.8 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000307,205,0.488,Partial semantic match with the job description; 6.8 years of relevant experience; Well-maintained professional profile
+CAND_0000172,206,0.487,Partial semantic match with the job description; 10.9 years of strong industry experience
+CAND_0000104,207,0.486,Partial semantic match with the job description; 8.1 years of strong industry experience
+CAND_0000345,208,0.486,Partial semantic match with the job description; 4.3 years of professional experience; Currently open to new opportunities
+CAND_0000343,209,0.485,Partial semantic match with the job description; 6.4 years of relevant experience; Currently open to new opportunities
+CAND_0000451,210,0.485,Partial semantic match with the job description; 8.2 years of strong industry experience
+CAND_0000077,211,0.485,Partial semantic match with the job description; 8.7 years of strong industry experience
+CAND_0000319,212,0.483,Partial semantic match with the job description; 7.4 years of relevant experience; Currently open to new opportunities
+CAND_0000079,213,0.483,Partial semantic match with the job description; 13.2 years of strong industry experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000404,214,0.483,Partial semantic match with the job description; 8.2 years of strong industry experience
+CAND_0000480,215,0.482,Partial semantic match with the job description; 5.9 years of relevant experience; Well-maintained professional profile
+CAND_0000097,216,0.481,Partial semantic match with the job description; 5.8 years of relevant experience
+CAND_0000151,217,0.481,Partial semantic match with the job description; 6.3 years of relevant experience
+CAND_0000120,218,0.481,Partial semantic match with the job description; 5.7 years of relevant experience
+CAND_0000269,219,0.48,Partial semantic match with the job description; 14.3 years of strong industry experience
+CAND_0000206,220,0.48,Partial semantic match with the job description; 9.2 years of strong industry experience
+CAND_0000098,221,0.478,Partial semantic match with the job description; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000284,222,0.477,Partial semantic match with the job description; 2.4 years of professional experience; Currently open to new opportunities
+CAND_0000219,223,0.476,Partial semantic match with the job description; 14.9 years of strong industry experience
+CAND_0000354,224,0.475,Partial semantic match with the job description; 6.3 years of relevant experience; Currently open to new opportunities; Moderately active GitHub profile; Well-maintained professional profile
+CAND_0000156,225,0.472,Partial semantic match with the job description; 5.5 years of relevant experience; Currently open to new opportunities
+CAND_0000177,226,0.472,Partial semantic match with the job description; 12.2 years of strong industry experience
+CAND_0000306,227,0.471,Partial semantic match with the job description; 12.6 years of strong industry experience
+CAND_0000419,228,0.469,Partial semantic match with the job description; 7.4 years of relevant experience
+CAND_0000168,229,0.469,Partial semantic match with the job description; 10.7 years of strong industry experience
+CAND_0000364,230,0.468,Partial semantic match with the job description; 8.6 years of strong industry experience
+CAND_0000286,231,0.467,Partial semantic match with the job description; 9.0 years of strong industry experience
+CAND_0000300,232,0.466,Partial semantic match with the job description; 8.5 years of strong industry experience; Well-maintained professional profile
+CAND_0000367,233,0.466,Partial semantic match with the job description; 8.5 years of strong industry experience
+CAND_0000297,234,0.466,Partial semantic match with the job description; 6.5 years of relevant experience
+CAND_0000214,235,0.465,Partial semantic match with the job description; 9.5 years of strong industry experience
+CAND_0000115,236,0.464,Partial semantic match with the job description; 7.8 years of relevant experience; Well-maintained professional profile
+CAND_0000311,237,0.463,Partial semantic match with the job description; 6.2 years of relevant experience; Well-maintained professional profile
+CAND_0000500,238,0.463,Partial semantic match with the job description; 7.5 years of relevant experience; Currently open to new opportunities
+CAND_0000210,239,0.462,Partial semantic match with the job description; 6.3 years of relevant experience; Moderately active GitHub profile
+CAND_0000465,240,0.461,Partial semantic match with the job description; 11.2 years of strong industry experience
+CAND_0000015,241,0.458,Partial semantic match with the job description; 5.4 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000031,242,0.457,Partial semantic match with the job description; 6.0 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000142,243,0.456,Partial semantic match with the job description; 5.1 years of relevant experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000476,244,0.456,Partial semantic match with the job description; 2.9 years of professional experience
+CAND_0000313,245,0.454,Partial semantic match with the job description; 7.0 years of relevant experience; Well-maintained professional profile
+CAND_0000285,246,0.454,Partial semantic match with the job description; 3.5 years of professional experience; Currently open to new opportunities; Moderately active GitHub profile
+CAND_0000331,247,0.453,Partial semantic match with the job description; 5.5 years of relevant experience; Moderately active GitHub profile
+CAND_0000187,248,0.453,Partial semantic match with the job description; 6.6 years of relevant experience; Currently open to new opportunities
+CAND_0000238,249,0.451,Partial semantic match with the job description; 7.6 years of relevant experience
+CAND_0000197,250,0.449,Partial semantic match with the job description; 7.2 years of relevant experience
+CAND_0000051,251,0.448,Partial semantic match with the job description; 6.2 years of relevant experience; Currently open to new opportunities
+CAND_0000324,252,0.443,Partial semantic match with the job description; 2.7 years of professional experience; Currently open to new opportunities
+CAND_0000200,253,0.442,Partial semantic match with the job description; 4.3 years of professional experience; Currently open to new opportunities
+CAND_0000353,254,0.442,Partial semantic match with the job description; 3.7 years of professional experience; Currently open to new opportunities
+CAND_0000271,255,0.442,Partial semantic match with the job description; 7.7 years of relevant experience
+CAND_0000119,256,0.441,Partial semantic match with the job description; 10.1 years of strong industry experience
+CAND_0000420,257,0.44,Partial semantic match with the job description; 14.5 years of strong industry experience
+CAND_0000484,258,0.437,Partial semantic match with the job description; 9.7 years of strong industry experience
+CAND_0000442,259,0.436,Partial semantic match with the job description; 3.1 years of professional experience; Currently open to new opportunities; Moderately active GitHub profile
+CAND_0000066,260,0.436,Partial semantic match with the job description; 2.4 years of professional experience; Currently open to new opportunities
+CAND_0000019,261,0.434,Partial semantic match with the job description; 6.5 years of relevant experience
+CAND_0000280,262,0.433,Partial semantic match with the job description; 8.2 years of strong industry experience
+CAND_0000485,263,0.43,Partial semantic match with the job description; 4.5 years of professional experience
+CAND_0000018,264,0.43,Partial semantic match with the job description; 6.6 years of relevant experience
+CAND_0000421,265,0.43,Partial semantic match with the job description; 4.5 years of professional experience
+CAND_0000478,266,0.429,Partial semantic match with the job description; 2.2 years of professional experience; Currently open to new opportunities
+CAND_0000474,267,0.428,Partial semantic match with the job description; 8.8 years of strong industry experience
+CAND_0000139,268,0.427,Partial semantic match with the job description; 5.6 years of relevant experience; Well-maintained professional profile
+CAND_0000342,269,0.427,Partial semantic match with the job description; 13.2 years of strong industry experience
+CAND_0000487,270,0.426,Partial semantic match with the job description; 2.7 years of professional experience; Currently open to new opportunities
+CAND_0000148,271,0.425,Partial semantic match with the job description; 13.9 years of strong industry experience
+CAND_0000400,272,0.422,Partial semantic match with the job description; 14.1 years of strong industry experience
+CAND_0000389,273,0.421,Partial semantic match with the job description; 5.4 years of relevant experience
+CAND_0000348,274,0.42,Partial semantic match with the job description; 7.1 years of relevant experience
+CAND_0000054,275,0.419,Partial semantic match with the job description; 4.9 years of professional experience; Currently open to new opportunities
+CAND_0000185,276,0.419,Partial semantic match with the job description; 6.1 years of relevant experience; Moderately active GitHub profile; Well-maintained professional profile
+CAND_0000125,277,0.417,Partial semantic match with the job description; 6.5 years of relevant experience; Currently open to new opportunities
+CAND_0000130,278,0.416,Partial semantic match with the job description; 8.6 years of strong industry experience
+CAND_0000462,279,0.415,Partial semantic match with the job description; 2.1 years of professional experience; Currently open to new opportunities
+CAND_0000016,280,0.415,Partial semantic match with the job description; 5.3 years of relevant experience; Currently open to new opportunities
+CAND_0000112,281,0.414,Partial semantic match with the job description; 3.8 years of professional experience; Moderately active GitHub profile; Well-maintained professional profile
+CAND_0000435,282,0.413,Partial semantic match with the job description; 14.9 years of strong industry experience
+CAND_0000030,283,0.413,Partial semantic match with the job description; 10.0 years of strong industry experience
+CAND_0000291,284,0.413,Partial semantic match with the job description; 12.9 years of strong industry experience
+CAND_0000182,285,0.411,Partial semantic match with the job description; 5.5 years of relevant experience
+CAND_0000058,286,0.41,Partial semantic match with the job description; 10.1 years of strong industry experience
+CAND_0000095,287,0.408,Partial semantic match with the job description; 6.7 years of relevant experience; Well-maintained professional profile
+CAND_0000228,288,0.406,Partial semantic match with the job description; 4.0 years of professional experience; Currently open to new opportunities
+CAND_0000380,289,0.406,Partial semantic match with the job description; 2.1 years of professional experience; Currently open to new opportunities
+CAND_0000332,290,0.405,Partial semantic match with the job description; 5.4 years of relevant experience; Well-maintained professional profile
+CAND_0000471,291,0.404,Partial semantic match with the job description; 2.1 years of professional experience; Currently open to new opportunities
+CAND_0000027,292,0.402,Partial semantic match with the job description; 3.9 years of professional experience; Currently open to new opportunities
+CAND_0000274,293,0.402,Partial semantic match with the job description; 3.0 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000029,294,0.402,Partial semantic match with the job description; 7.2 years of relevant experience
+CAND_0000088,295,0.401,Partial semantic match with the job description; 7.6 years of relevant experience
+CAND_0000013,296,0.398,Partial semantic match with the job description; Currently open to new opportunities
+CAND_0000365,297,0.395,Partial semantic match with the job description; 7.4 years of relevant experience
+CAND_0000477,298,0.394,Partial semantic match with the job description; 3.3 years of professional experience; Currently open to new opportunities
+CAND_0000225,299,0.393,Partial semantic match with the job description; 5.0 years of relevant experience; Currently open to new opportunities
+CAND_0000296,300,0.393,Partial semantic match with the job description; 6.5 years of relevant experience
+CAND_0000218,301,0.392,Partial semantic match with the job description; 6.2 years of relevant experience
+CAND_0000379,302,0.389,Partial semantic match with the job description; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000173,303,0.388,Partial semantic match with the job description; 7.9 years of relevant experience; Well-maintained professional profile
+CAND_0000310,304,0.388,Partial semantic match with the job description; 5.6 years of relevant experience
+CAND_0000239,305,0.387,Partial semantic match with the job description; 4.4 years of professional experience
+CAND_0000217,306,0.387,Partial semantic match with the job description; 4.5 years of professional experience; Currently open to new opportunities
+CAND_0000211,307,0.384,Partial semantic match with the job description; 5.0 years of relevant experience
+CAND_0000436,308,0.382,Partial semantic match with the job description; 8.8 years of strong industry experience
+CAND_0000391,309,0.381,Partial semantic match with the job description; 3.6 years of professional experience; Currently open to new opportunities
+CAND_0000290,310,0.38,Partial semantic match with the job description; 2.3 years of professional experience; Well-maintained professional profile
+CAND_0000126,311,0.379,Partial semantic match with the job description; 2.5 years of professional experience; Well-maintained professional profile
+CAND_0000441,312,0.378,Partial semantic match with the job description; 7.5 years of relevant experience; Well-maintained professional profile
+CAND_0000409,313,0.376,Partial semantic match with the job description; 2.8 years of professional experience; Currently open to new opportunities
+CAND_0000192,314,0.373,Partial semantic match with the job description; 5.1 years of relevant experience
+CAND_0000161,315,0.373,Partial semantic match with the job description; 12.4 years of strong industry experience
+CAND_0000287,316,0.373,Partial semantic match with the job description; 6.2 years of relevant experience
+CAND_0000146,317,0.372,Partial semantic match with the job description; 6.6 years of relevant experience
+CAND_0000101,318,0.371,Partial semantic match with the job description; 7.0 years of relevant experience
+CAND_0000204,319,0.367,Partial semantic match with the job description; 3.5 years of professional experience
+CAND_0000254,320,0.364,Partial semantic match with the job description; 5.7 years of relevant experience
+CAND_0000087,321,0.363,Partial semantic match with the job description; 2.5 years of professional experience; Currently open to new opportunities
+CAND_0000298,322,0.363,Partial semantic match with the job description; 5.3 years of relevant experience
+CAND_0000189,323,0.361,Partial semantic match with the job description; 3.7 years of professional experience; Well-maintained professional profile
+CAND_0000250,324,0.361,Partial semantic match with the job description; 3.7 years of professional experience; Currently open to new opportunities
+CAND_0000179,325,0.356,Partial semantic match with the job description; 3.2 years of professional experience; Currently open to new opportunities
+CAND_0000243,326,0.353,Partial semantic match with the job description; 5.7 years of relevant experience
+CAND_0000007,327,0.353,Partial semantic match with the job description; 5.5 years of relevant experience; Well-maintained professional profile
+CAND_0000158,328,0.353,Partial semantic match with the job description; 4.4 years of professional experience
+CAND_0000096,329,0.351,Partial semantic match with the job description; 3.2 years of professional experience; Well-maintained professional profile
+CAND_0000267,330,0.349,Partial semantic match with the job description; 3.3 years of professional experience; Currently open to new opportunities
+CAND_0000193,331,0.348,Partial semantic match with the job description; 5.7 years of relevant experience
+CAND_0000359,332,0.348,Partial semantic match with the job description; 5.0 years of relevant experience; Well-maintained professional profile
+CAND_0000262,333,0.344,Partial semantic match with the job description; 4.9 years of professional experience; Well-maintained professional profile
+CAND_0000191,334,0.339,Partial semantic match with the job description; 5.0 years of relevant experience
+CAND_0000373,335,0.336,Partial semantic match with the job description; 3.8 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000481,336,0.336,Partial semantic match with the job description; 4.6 years of professional experience
+CAND_0000427,337,0.335,Partial semantic match with the job description; 2.6 years of professional experience; Currently open to new opportunities; Moderately active GitHub profile
+CAND_0000493,338,0.334,Partial semantic match with the job description; 5.5 years of relevant experience; Currently open to new opportunities
+CAND_0000023,339,0.334,Partial semantic match with the job description; 3.7 years of professional experience
+CAND_0000106,340,0.331,Partial semantic match with the job description; 6.6 years of relevant experience
+CAND_0000108,341,0.331,Partial semantic match with the job description; 3.6 years of professional experience; Well-maintained professional profile
+CAND_0000438,342,0.331,Partial semantic match with the job description; 3.5 years of professional experience
+CAND_0000497,343,0.33,Partial semantic match with the job description; Currently open to new opportunities
+CAND_0000344,344,0.329,Partial semantic match with the job description; 2.5 years of professional experience; Well-maintained professional profile
+CAND_0000248,345,0.328,Partial semantic match with the job description; 4.1 years of professional experience; Well-maintained professional profile
+CAND_0000205,346,0.328,Partial semantic match with the job description; 4.8 years of professional experience; Well-maintained professional profile
+CAND_0000091,347,0.327,Partial semantic match with the job description; 3.6 years of professional experience; Moderately active GitHub profile
+CAND_0000241,348,0.325,Partial semantic match with the job description; 7.7 years of relevant experience; Well-maintained professional profile
+CAND_0000401,349,0.325,Partial semantic match with the job description; 7.7 years of relevant experience
+CAND_0000335,350,0.325,Partial semantic match with the job description; 4.0 years of professional experience
+CAND_0000246,351,0.324,Partial semantic match with the job description; 4.6 years of professional experience; Currently open to new opportunities
+CAND_0000118,352,0.321,Partial semantic match with the job description; 7.2 years of relevant experience
+CAND_0000259,353,0.321,Partial semantic match with the job description; 6.7 years of relevant experience; Well-maintained professional profile
+CAND_0000074,354,0.319,Partial semantic match with the job description
+CAND_0000183,355,0.318,Partial semantic match with the job description; 3.9 years of professional experience; Currently open to new opportunities
+CAND_0000351,356,0.315,Partial semantic match with the job description; 5.0 years of relevant experience; Well-maintained professional profile
+CAND_0000396,357,0.314,Partial semantic match with the job description; 5.6 years of relevant experience
+CAND_0000138,358,0.309,Partial semantic match with the job description; 8.3 years of strong industry experience
+CAND_0000202,359,0.306,Partial semantic match with the job description; 2.7 years of professional experience; Currently open to new opportunities
+CAND_0000325,360,0.306,Partial semantic match with the job description; 6.7 years of relevant experience
+CAND_0000232,361,0.303,Partial semantic match with the job description; 4.3 years of professional experience
+CAND_0000092,362,0.303,Partial semantic match with the job description; 4.8 years of professional experience
+CAND_0000184,363,0.302,Partial semantic match with the job description; 4.9 years of professional experience
+CAND_0000195,364,0.3,Partial semantic match with the job description; 5.9 years of relevant experience
+CAND_0000317,365,0.298,Partial semantic match with the job description; 3.1 years of professional experience; Currently open to new opportunities
+CAND_0000426,366,0.298,Partial semantic match with the job description; 5.9 years of relevant experience
+CAND_0000075,367,0.297,Partial semantic match with the job description; 5.2 years of relevant experience
+CAND_0000068,368,0.297,Partial semantic match with the job description; Currently open to new opportunities
+CAND_0000008,369,0.294,Partial semantic match with the job description; 3.6 years of professional experience
+CAND_0000283,370,0.289,Partial semantic match with the job description; 3.5 years of professional experience
+CAND_0000006,371,0.289,Partial semantic match with the job description; 6.0 years of relevant experience
+CAND_0000150,372,0.289,Partial semantic match with the job description; 5.4 years of relevant experience
+CAND_0000152,373,0.288,Partial semantic match with the job description; 4.0 years of professional experience
+CAND_0000264,374,0.286,Partial semantic match with the job description; 2.9 years of professional experience
+CAND_0000208,375,0.282,Partial semantic match with the job description; 4.2 years of professional experience
+CAND_0000347,376,0.282,Partial semantic match with the job description; 6.2 years of relevant experience; Well-maintained professional profile
+CAND_0000145,377,0.282,Partial semantic match with the job description; 3.4 years of professional experience
+CAND_0000053,378,0.278,Partial semantic match with the job description; 3.9 years of professional experience
+CAND_0000064,379,0.276,Partial semantic match with the job description; 4.5 years of professional experience; Well-maintained professional profile
+CAND_0000315,380,0.276,Partial semantic match with the job description; 3.1 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000494,381,0.273,Partial semantic match with the job description; 3.4 years of professional experience
+CAND_0000452,382,0.268,Partial semantic match with the job description; 2.9 years of professional experience; Moderately active GitHub profile; Well-maintained professional profile
+CAND_0000308,383,0.268,Partial semantic match with the job description; 2.0 years of professional experience
+CAND_0000099,384,0.267,Partial semantic match with the job description; 2.6 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000226,385,0.263,Partial semantic match with the job description; 3.5 years of professional experience
+CAND_0000022,386,0.263,Partial semantic match with the job description; Currently open to new opportunities
+CAND_0000164,387,0.262,Partial semantic match with the job description; 3.7 years of professional experience; Well-maintained professional profile
+CAND_0000121,388,0.262,Partial semantic match with the job description; 3.7 years of professional experience
+CAND_0000011,389,0.261,Partial semantic match with the job description; 2.0 years of professional experience
+CAND_0000305,390,0.252,Partial semantic match with the job description; 4.7 years of professional experience
+CAND_0000224,391,0.25,Partial semantic match with the job description; 4.1 years of professional experience; Well-maintained professional profile
+CAND_0000350,392,0.25,Partial semantic match with the job description; 4.8 years of professional experience
+CAND_0000450,393,0.249,Partial semantic match with the job description; 3.5 years of professional experience
+CAND_0000489,394,0.249,Partial semantic match with the job description; 3.9 years of professional experience; Well-maintained professional profile
+CAND_0000463,395,0.246,Partial semantic match with the job description; 2.2 years of professional experience; Currently open to new opportunities
+CAND_0000483,396,0.246,Partial semantic match with the job description; 4.1 years of professional experience; Currently open to new opportunities
+CAND_0000155,397,0.244,Partial semantic match with the job description; 3.2 years of professional experience
+CAND_0000346,398,0.244,Partial semantic match with the job description; 4.6 years of professional experience
+CAND_0000408,399,0.243,Partial semantic match with the job description; 3.2 years of professional experience
+CAND_0000113,400,0.242,Partial semantic match with the job description; Currently open to new opportunities
+CAND_0000170,401,0.242,Partial semantic match with the job description; 4.8 years of professional experience; Currently open to new opportunities
+CAND_0000377,402,0.242,Partial semantic match with the job description; 6.1 years of relevant experience
+CAND_0000171,403,0.242,Partial semantic match with the job description; 2.9 years of professional experience
+CAND_0000467,404,0.242,Partial semantic match with the job description; 2.2 years of professional experience; Currently open to new opportunities
+CAND_0000147,405,0.241,Partial semantic match with the job description; 5.2 years of relevant experience; Well-maintained professional profile
+CAND_0000229,406,0.24,Partial semantic match with the job description; 2.2 years of professional experience; Well-maintained professional profile
+CAND_0000423,407,0.24,Partial semantic match with the job description; 3.6 years of professional experience; Currently open to new opportunities
+CAND_0000216,408,0.239,Partial semantic match with the job description; 6.0 years of relevant experience
+CAND_0000411,409,0.238,Partial semantic match with the job description; 2.8 years of professional experience; Well-maintained professional profile
+CAND_0000234,410,0.238,Partial semantic match with the job description; Currently open to new opportunities
+CAND_0000244,411,0.236,Partial semantic match with the job description; Well-maintained professional profile
+CAND_0000405,412,0.236,Partial semantic match with the job description; 2.7 years of professional experience
+CAND_0000253,413,0.234,Partial semantic match with the job description; 6.1 years of relevant experience
+CAND_0000190,414,0.229,Partial semantic match with the job description; 3.7 years of professional experience; Well-maintained professional profile
+CAND_0000457,415,0.229,Partial semantic match with the job description; 2.4 years of professional experience; Moderately active GitHub profile
+CAND_0000301,416,0.227,Partial semantic match with the job description
+CAND_0000094,417,0.227,Partial semantic match with the job description; 2.6 years of professional experience; Well-maintained professional profile
+CAND_0000260,418,0.225,Partial semantic match with the job description; 3.8 years of professional experience; Well-maintained professional profile
+CAND_0000086,419,0.225,Partial semantic match with the job description; 4.9 years of professional experience
+CAND_0000336,420,0.225,Partial semantic match with the job description; 4.9 years of professional experience; Well-maintained professional profile
+CAND_0000207,421,0.224,Partial semantic match with the job description; 5.4 years of relevant experience
+CAND_0000042,422,0.222,Partial semantic match with the job description; 5.0 years of relevant experience
+CAND_0000196,423,0.22,Partial semantic match with the job description; 4.2 years of professional experience
+CAND_0000153,424,0.218,Partial semantic match with the job description; 3.8 years of professional experience; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000067,425,0.217,Partial semantic match with the job description; 3.9 years of professional experience
+CAND_0000356,426,0.216,Partial semantic match with the job description
+CAND_0000245,427,0.216,Partial semantic match with the job description
+CAND_0000102,428,0.214,Partial semantic match with the job description; 3.7 years of professional experience
+CAND_0000035,429,0.207,Partial semantic match with the job description; 4.3 years of professional experience
+CAND_0000089,430,0.206,Partial semantic match with the job description
+CAND_0000166,431,0.205,Partial semantic match with the job description; 4.8 years of professional experience
+CAND_0000469,432,0.205,Partial semantic match with the job description
+CAND_0000416,433,0.204,Partial semantic match with the job description; 2.4 years of professional experience; Well-maintained professional profile
+CAND_0000334,434,0.204,Partial semantic match with the job description
+CAND_0000288,435,0.202,Partial semantic match with the job description; 2.7 years of professional experience; Well-maintained professional profile
+CAND_0000174,436,0.201,Partial semantic match with the job description; 2.7 years of professional experience
+CAND_0000372,437,0.201,Partial semantic match with the job description; Moderately active GitHub profile
+CAND_0000279,438,0.197,Partial semantic match with the job description; 2.9 years of professional experience
+CAND_0000203,439,0.196,Partial semantic match with the job description; 4.0 years of professional experience
+CAND_0000199,440,0.191,Partial semantic match with the job description; 3.6 years of professional experience
+CAND_0000277,441,0.191,Partial semantic match with the job description; 2.1 years of professional experience; Moderately active GitHub profile
+CAND_0000482,442,0.19,Partial semantic match with the job description; 4.3 years of professional experience; Well-maintained professional profile
+CAND_0000256,443,0.187,Partial semantic match with the job description; 2.3 years of professional experience
+CAND_0000047,444,0.187,Partial semantic match with the job description; 2.4 years of professional experience; Well-maintained professional profile
+CAND_0000132,445,0.186,Partial semantic match with the job description; 7.7 years of relevant experience
+CAND_0000412,446,0.185,Partial semantic match with the job description; 2.5 years of professional experience; Well-maintained professional profile
+CAND_0000403,447,0.182,Partial semantic match with the job description; 5.3 years of relevant experience; Well-maintained professional profile
+CAND_0000052,448,0.179,Partial semantic match with the job description
+CAND_0000266,449,0.178,Partial semantic match with the job description; 2.7 years of professional experience
+CAND_0000369,450,0.176,Partial semantic match with the job description; 2.0 years of professional experience; Well-maintained professional profile
+CAND_0000003,451,0.174,Partial semantic match with the job description
+CAND_0000278,452,0.17,Partial semantic match with the job description
+CAND_0000070,453,0.169,Partial semantic match with the job description; 4.2 years of professional experience; Well-maintained professional profile
+CAND_0000040,454,0.168,Partial semantic match with the job description
+CAND_0000175,455,0.167,Partial semantic match with the job description; 3.7 years of professional experience
+CAND_0000176,456,0.167,Partial semantic match with the job description; 4.5 years of professional experience
+CAND_0000378,457,0.164,Partial semantic match with the job description; 3.0 years of professional experience
+CAND_0000449,458,0.163,Partial semantic match with the job description; 4.6 years of professional experience
+CAND_0000432,459,0.162,Partial semantic match with the job description; 4.8 years of professional experience
+CAND_0000213,460,0.161,Partial semantic match with the job description; 3.0 years of professional experience
+CAND_0000281,461,0.159,Partial semantic match with the job description
+CAND_0000276,462,0.156,Partial semantic match with the job description; Currently open to new opportunities
+CAND_0000374,463,0.155,Partial semantic match with the job description; 4.4 years of professional experience; Currently open to new opportunities
+CAND_0000141,464,0.155,Partial semantic match with the job description
+CAND_0000429,465,0.151,Partial semantic match with the job description; 2.7 years of professional experience
+CAND_0000366,466,0.15,Partial semantic match with the job description; Currently open to new opportunities; Well-maintained professional profile
+CAND_0000004,467,0.149,Partial semantic match with the job description; 3.8 years of professional experience
+CAND_0000326,468,0.147,Partial semantic match with the job description; 2.8 years of professional experience
+CAND_0000407,469,0.141,Partial semantic match with the job description
+CAND_0000303,470,0.14,Partial semantic match with the job description; 2.3 years of professional experience
+CAND_0000329,471,0.139,Partial semantic match with the job description; Well-maintained professional profile
+CAND_0000111,472,0.138,Partial semantic match with the job description; 2.5 years of professional experience
+CAND_0000453,473,0.138,Partial semantic match with the job description; 2.1 years of professional experience
+CAND_0000363,474,0.137,Partial semantic match with the job description; 2.1 years of professional experience
+CAND_0000304,475,0.135,Partial semantic match with the job description; 3.7 years of professional experience
+CAND_0000090,476,0.128,Partial semantic match with the job description; Well-maintained professional profile
+CAND_0000368,477,0.121,Partial semantic match with the job description; 5.2 years of relevant experience; Well-maintained professional profile
+CAND_0000252,478,0.121,Partial semantic match with the job description; 3.0 years of professional experience
+CAND_0000434,479,0.121,Partial semantic match with the job description; 3.6 years of professional experience
+CAND_0000230,480,0.118,Partial semantic match with the job description
+CAND_0000057,481,0.116,Partial semantic match with the job description; 3.3 years of professional experience
+CAND_0000039,482,0.106,Partial semantic match with the job description; 3.9 years of professional experience
+CAND_0000012,483,0.102,Partial semantic match with the job description
+CAND_0000472,484,0.102,Partial semantic match with the job description; 2.9 years of professional experience
+CAND_0000393,485,0.099,Partial semantic match with the job description; 3.0 years of professional experience
+CAND_0000375,486,0.099,Partial semantic match with the job description
+CAND_0000490,487,0.097,Partial semantic match with the job description; 2.6 years of professional experience
+CAND_0000181,488,0.091,Partial semantic match with the job description; 4.7 years of professional experience
+CAND_0000157,489,0.087,Partial semantic match with the job description; 3.1 years of professional experience; Well-maintained professional profile
+CAND_0000383,490,0.076,Partial semantic match with the job description; 3.7 years of professional experience
+CAND_0000059,491,0.075,Partial semantic match with the job description
+CAND_0000109,492,0.072,Partial semantic match with the job description; 2.2 years of professional experience
+CAND_0000282,493,0.072,Partial semantic match with the job description; Well-maintained professional profile
+CAND_0000028,494,0.066,Partial semantic match with the job description
+CAND_0000406,495,0.059,Partial semantic match with the job description
+CAND_0000381,496,0.057,Partial semantic match with the job description; 3.4 years of professional experience
+CAND_0000221,497,0.052,Partial semantic match with the job description; 2.7 years of professional experience
+CAND_0000194,498,0.019,Partial semantic match with the job description; Well-maintained professional profile
+CAND_0000056,499,0.01,Partial semantic match with the job description
+CAND_0000257,500,0.0,Partial semantic match with the job description
