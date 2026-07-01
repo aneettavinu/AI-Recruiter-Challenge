@@ -1,22 +1,35 @@
 # AI Candidate Ranking System
 
-## Problem
-Rank candidates based on semantic understanding instead of keyword matching.
+## Problem Statement
 
-## Features
-- Semantic Search using Sentence Transformers
-- Automatic Job Description Parsing
-- Skill Matching
-- Experience Scoring
-- GitHub & Redrob Signal Scoring
-- Explainable Candidate Ranking
-- CSV Submission Generator
+## Solution Overview
 
-## Project Structure
+## System Architecture
 
-data/
-src/
-output/
+![System Architecture](images/system_architecture.png)
+
+## Workflow
+
+1. Read Job Description
+2. Parse Requirements
+3. Read Candidate Profiles
+4. Generate Semantic Embeddings
+5. Compute Cosine Similarity
+6. Skill Matching
+7. Hybrid Scoring
+8. Explainable Ranking
+9. Generate submission.csv
+
+## Technologies Used
+
+- Python
+- Sentence Transformers
+- Transformers
+- Scikit-learn
+- Pandas
+- NumPy
+
+## Folder Structure
 
 ## Installation
 
@@ -29,3 +42,10 @@ python main.py
 ## Output
 
 output/submission.csv
+
+## Future Improvements
+
+- Batch Embeddings
+- FAISS
+- LLM Re-ranking
+- Streamlit Dashboard
